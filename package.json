@@ -8,8 +8,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "start": "npm --prefix website start",
+    "build": "npm --prefix website run build"
   },
   "eslintConfig": {
     "extends": [
