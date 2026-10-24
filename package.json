@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "npm --prefix website start",
-    "build": "npm --prefix website run build"
+    "build": "npm --prefix website install && npm --prefix website run build"
   },
   "eslintConfig": {
     "extends": [

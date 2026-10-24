@@ -2,9 +2,14 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-scripts": "5.0.1"
+  },
   "scripts": {
-    "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
-    "build": "BUILD_PATH=../build node ../node_modules/react-scripts/bin/react-scripts.js build"
+    "start": "react-scripts start",
+    "build": "BUILD_PATH=../build react-scripts build"
   },
   "eslintConfig": {
     "extends": [
