@@ -8,16 +8,16 @@ export default function About() {
             <a href="mailto:andrewvillacorte016@gmail.com">andrewvillacorte016@gmail.com</a>
           </p>
           <p>
-            I'm a fourth-year Information Technology student, focused on digital solutions that are both functional and user-centered. I design and build with React, Next.js, Node.js, and Figma.
+            I'm a fourth-year Information Technology student, focused on digital solutions that are both functional and user-centered. I design and build across programming languages, frameworks, and the databases behind them.
           </p>
           <p>
             I turn ideas into applications and interfaces through research, iteration, and careful craft. That includes EaseArm, an IoT device, and web apps such as PhotobothUs and this portfolio.
           </p>
           <p>
-            I keep up with new tools and practices, and I pay attention to the details people feel even when they never notice them.
+            I shape the look of a product in Figma, from prototypes and motion to brand identity, and I pay attention to the details people feel even when they never notice them.
           </p>
           <p>
-            I communicate clearly and adapt as the work changes. Outside of class, I keep learning the tools I use to design and build.
+            I work in an Agile way, communicate clearly, and adapt as the work changes. Outside of class, I keep learning the tools I use to design and build.
           </p>
           <div className="social-links">
             <a className="social-link" href="https://www.linkedin.com/in/andrew-villacorte-319279343/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
